@@ -1,4 +1,4 @@
- SlaSHR Project
+ SlaSHR Project. See [RAPPORT FINAL.pdf](https://github.com/SashelI/SlaSHR/blob/master/RAPPORT%20FINAL.pdf)
 
 1. [State of the art](#state)
 2. [Installation reports](#done)
